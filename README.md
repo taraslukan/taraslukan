@@ -1,5 +1,5 @@
 
-![2sfondo_git_hub](https://github.com/user-attachments/assets/206cf962-f091-4b84-8462-9ca7f137d16a)
+![2sfondo_git_hub](https://github.com/user-attachments/assets/a009ab4f-4606-479d-abd8-8de5d4258af5)
 ## 👋 Passionate about technology in all its facets, I strive to learn from everything I do, both in my professional life and daily experiences. Always ready to lend a hand, ideally with a smile.
 <!--
 **taraslukan/taraslukan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently studying on 42 Roma Luiss...
+🌱 I’m currently learning C++, C#, react..
+💬 For more information or questions about projects, feel free to message [me here](www.linkedin.com/in/taraslukan). 
