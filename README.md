@@ -1,5 +1,6 @@
-## Hi there 👋
 
+![2sfondo_git_hub](https://github.com/user-attachments/assets/206cf962-f091-4b84-8462-9ca7f137d16a)
+## 👋 Passionate about technology in all its facets, I strive to learn from everything I do, both in my professional life and daily experiences. Always ready to lend a hand, ideally with a smile.
 <!--
 **taraslukan/taraslukan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
