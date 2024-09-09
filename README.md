@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently studying on 42 Roma Luiss...
 - 🌱 I’m currently learning C++, C#, react..
-- 💬 For more information or questions about projects, feel free to message [me here](www.linkedin.com/in/taraslukan). 
+- 💬 For more information or questions about projects, feel free to message [me here](https://www.linkedin.com/in/taraslukan/). 
